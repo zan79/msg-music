@@ -151,7 +151,7 @@ export default {
           artist: "Stereopony",
           category: " 00",
           src: require("./assets/music/00/Namida no Mukou - Stereopony.mp3"),
-          cover: 
+          cover:
             "https://i.pinimg.com/originals/c9/06/c4/c906c47737c71ccba6acebb2d5189808.jpg",
         },
         {
@@ -167,21 +167,24 @@ export default {
           artist: "KANA-BOON",
           category: " IBO",
           src: require("./assets/music/ibo/Fighter - KANA-BOON.mp3"),
-          cover: "https://static.zerochan.net/Kidou.Senshi.Gundam%3A.Tekketsu.no.Orphans.full.2964699.jpg",
+          cover:
+            "https://static.zerochan.net/Kidou.Senshi.Gundam%3A.Tekketsu.no.Orphans.full.2964699.jpg",
         },
         {
           title: "Freesia",
           artist: "Uru",
           category: " IBO",
           src: require("./assets/music/ibo/Freesia - Uru.mp3"),
-          cover: "https://i.pinimg.com/originals/5a/f9/a9/5af9a99c3d56c37913e36a557a6a4600.jpg",
+          cover:
+            "https://i.pinimg.com/originals/5a/f9/a9/5af9a99c3d56c37913e36a557a6a4600.jpg",
         },
         {
           title: "Rage of Dust",
           artist: "SPYAIR",
           category: " IBO",
           src: require("./assets/music/ibo/Rage of Dust - SPYAIR.mp3"),
-          cover: "https://1.bp.blogspot.com/-c3SgVNDAYPs/WAQxOp5CFsI/AAAAAAALI-U/Eobpx4i3-PI75xBNHMXioiqrcpPZBCRJgCLcB/s1600/Cu4ElB9UIAETBnc.jpg",
+          cover:
+            "https://1.bp.blogspot.com/-c3SgVNDAYPs/WAQxOp5CFsI/AAAAAAALI-U/Eobpx4i3-PI75xBNHMXioiqrcpPZBCRJgCLcB/s1600/Cu4ElB9UIAETBnc.jpg",
         },
         {
           title: "Raise Your Flag",
@@ -195,35 +198,39 @@ export default {
           artist: "GRANRODEO",
           category: " IBO",
           src: require("./assets/music/ibo/Shōnen no Hate - GRANRODEO.mp3"),
-          cover: "https://i.pinimg.com/originals/68/fd/64/68fd641e143e87a5bf9f999d315b9f68.jpg",
+          cover:
+            "https://i.pinimg.com/originals/68/fd/64/68fd641e143e87a5bf9f999d315b9f68.jpg",
         },
         {
           title: "STEEL - Tetsuketsu no Kizuna",
           artist: "TRUE",
           category: " IBO",
           src: require("./assets/music/ibo/STEEL -Tetsuketsu no Kizuna - TRUE.mp3"),
-          cover: "https://i.pinimg.com/originals/a9/03/53/a90353a8f923d0bb258cbee5dc3ba48f.jpg",
+          cover:
+            "https://i.pinimg.com/originals/a9/03/53/a90353a8f923d0bb258cbee5dc3ba48f.jpg",
         },
         {
           title: "Survivor",
           artist: "BLUE ENCOUNT",
           category: " IBO",
           src: require("./assets/music/ibo/Survivor - BLUE ENCOUNT.mp3"),
-          cover: "https://preview.redd.it/13hkh1qjy9b81.png?auto=webp&s=90bfa5f2f9b0e073210d781492298315070cdcd9",
+          cover:
+            "https://preview.redd.it/13hkh1qjy9b81.png?auto=webp&s=90bfa5f2f9b0e073210d781492298315070cdcd9",
         },
         {
           title: "Tears of Orphan",
           artist: "MISIA",
           category: " IBO",
-          src: require("./assets/music/ibo/Tears of Orphan - MISIA.mp3"), 
-          cover: "https://i.pinimg.com/originals/7d/7b/d2/7d7bd2ee683b2204bb4bc38545c20ca4.jpg",
+          src: require("./assets/music/ibo/Tears of Orphan - MISIA.mp3"),
+          cover:
+            "https://i.pinimg.com/originals/7d/7b/d2/7d7bd2ee683b2204bb4bc38545c20ca4.jpg",
         },
         {
           title: "Akatsuki no Kuruma",
           artist: "FictionJunction Yuuka",
           category: " SEED",
           src: require("./assets/music/seed/Akatsuki no Kuruma - FictionJunction Yuuka.mp3"),
-          cover: 
+          cover:
             "https://konachan.com/image/ab32f684f0a4709f6d1efc79e3771900/Konachan.com%20-%2015287%20gundam_seed%20kira_yamato%20lacus_clyne%20mobile_suit_gundam.jpg",
         },
         {
@@ -255,8 +262,7 @@ export default {
           artist: "T.M.Revolution",
           category: " SEED",
           src: require("./assets/music/seed/Ignited - T.M.Revolution.mp3"),
-          cover:
-            "https://static.zerochan.net/Impulse.Gundam.full.3093381.jpg",
+          cover: "https://static.zerochan.net/Impulse.Gundam.full.3093381.jpg",
         },
         {
           title: "Invoke",
@@ -279,24 +285,21 @@ export default {
           artist: "Mika Arisaka",
           category: " SEED",
           src: require("./assets/music/seed/Life Goes On - Mika Arisaka.mp3"),
-          cover:
-            "https://images6.alphacoders.com/760/760182.jpg",
+          cover: "https://images6.alphacoders.com/760/760182.jpg",
         },
         {
           title: "Meteor",
           artist: "T.M.Revolution",
           category: " SEED",
           src: require("./assets/music/seed/Meteor - T.M.Revolution.mp3"),
-          cover:
-            "https://static.zerochan.net/Strike.Gundam.full.3412053.jpg",
+          cover: "https://static.zerochan.net/Strike.Gundam.full.3412053.jpg",
         },
         {
           title: "Realize",
           artist: "Nami Tamaki",
           category: " SEED",
           src: require("./assets/music/seed/Realize - Nami Tamaki.mp3"),
-          cover:
-            "https://static.zerochan.net/Destiny.Gundam.full.3440475.jpg",
+          cover: "https://static.zerochan.net/Destiny.Gundam.full.3440475.jpg",
         },
         {
           title: "Reason",
@@ -404,8 +407,14 @@ export default {
 </script>
 
 <style>
+* {
+  text-shadow: 2px 2px 4px #000000;
+}
 body {
   background-color: black;
+  background-image: url("./assets/space.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 * {
   margin: 0;
