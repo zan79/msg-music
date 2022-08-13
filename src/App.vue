@@ -7,7 +7,7 @@
         </h1>
         <img class="avatar text-center my-2" v-bind:src="current.cover" />
         <h3 class="title accent">{{ current.title }}</h3>
-        <span class="artist text-secondary">{{ current.artist }}</span>
+        <span class="artist text-light">{{ current.artist }}</span>
       </div>
       <div class="col2 col-md-6" style="overflow-y: auto; height: 80vh">
         <div class="playlist d-grid gap-2">
@@ -47,6 +47,7 @@
                   height: 2rem;
                   object-fit: cover;
                   border-radius: 10%;
+                  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
                 "
               />
               <span>{{ song.title }}</span>
@@ -429,6 +430,7 @@ body {
   height: 24rem;
   border-radius: 5%;
   object-fit: cover;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
 
 .accent {
