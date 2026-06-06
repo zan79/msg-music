@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col1 col-md-6 text-center pb-2">
         <h1 class="category text-light">
-          MobileGundam{{ current.category }}
+          Mobile SUIT Gundam{{ current.category }}
         </h1>
         <img class="avatar text-center my-2" v-bind:src="current.cover" />
         <h3 class="title accent">{{ current.title }}</h3>
